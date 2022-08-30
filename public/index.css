@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  align-items: center;
+  align-content: center;
+ font-family: 'Aboreto', cursive;
+    background-color: rgb(16, 21, 26);
+    color: rgb(255, 255, 255);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  /*overflow-x: 10%;*/
+  margin: 0px;
+  position: sticky;
+  align-items: center;
+  text-align: center;
+    backdrop-filter: blur(5px);  
+  width:99.5%;
+  font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+      
+  /* background-attachment: fixed; */
+  background-position: center center;
+ color: rgb(252, 247, 247);
+}
+.ni{
+  color:palevioletred
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.hat{
+  color:red;
+}
+.hexcode{
+font-size: 20px;
+}
+.hexcode b{
+  color:rgb(152, 136, 136)
+}
+.square{
+  height: 89px;
+  background-color: aqua;
+}
+.non{
+  visibility: hidden;
+}
+.heading{
+  font-family: 'Aboreto', cursive;
+}
+h3,h1{
+  font-family: 'Aboreto', cursive;
+}

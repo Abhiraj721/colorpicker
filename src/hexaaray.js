@@ -1,0 +1,3 @@
+var hexarr=["#3742fa","#70a1ff","#5352ed","#ffa502","#1e90ff","#FEA47F","#25CCF7","#EAB543","#55E6C1","#CAD3C8","#F97F51","#1B9CFC","#F8EFBA","#58B19F","#2C3A47","#B33771","#3B3B98","#FD7272","#9AECDB","#D6A2E8","#f6e58d","#ffbe76","#ff7979","#badc58","#dff9fb","#f9ca24","#eb4d4b","#6ab04c","#c7ecee","#7ed6df","#e056fd","#686de0","#30336b","#95afc0","#22a6b3","#be2edd","#4834d4","#130f40","#535c68","#00a8ff"]
+
+export default hexarr
